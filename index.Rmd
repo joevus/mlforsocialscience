@@ -72,8 +72,8 @@ library(htmltools)
       ),
       div(
         class="col-sm-9",
-        h2("Social Data Science R Tutorials"),
-        p("Welcome to the Social Data Science R Tutorials hompage. Here you can find links to collections of tutorials. They are on the left sidebar, or, if you're using a small screen, they are above.")
+        h2("Machine Learning for Social Science R Tutorials"),
+        p("Welcome to the Machine Learning for Social Science R Tutorials collection. Here you can find links to tutorials. They are on the left sidebar, or, if you're using a small screen, they are above.")
       )
     )
 
