@@ -1,0 +1,13 @@
+name: "Machine Learning for Social Science"
+navbar:
+  title: "Machine Learning for Social Science"
+  left:
+    - text: "All Tutorial Collections"
+      href: "../.."
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    css: styles.css

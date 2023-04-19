@@ -1,0 +1,82 @@
+
+```{r, echo=FALSE}
+library(htmltools)
+```
+
+```{r, echo=FALSE}
+    div(class="row",
+      div(class="col-sm-3",
+        div(
+          class="list-group",
+          a(
+            class="list-group-item",
+            "Boosting 1",
+            href="boosting-1"
+          ),
+          a(
+            class="list-group-item",
+            "Boosting 2",
+            href="boosting-2"
+          ),
+          a(
+            class="list-group-item",
+            "Ensemble",
+            href="ensemble"
+          ),
+          a(
+            class="list-group-item",
+            "Interpretable-ml",
+            href="interpretable-ml"
+          ),
+          a(
+            class="list-group-item",
+            "knn",
+            href="knn"
+          ),
+          a(
+            class="list-group-item",
+            "Machine Learning Basics",
+            href="ml-basics"
+          ),
+          a(
+            class="list-group-item",
+            "Machine Learning Toolbox",
+            href="ml-toolbox"
+          ),
+          a(
+            class="list-group-item",
+            "Regularized Regression 1",
+            href="regularized-regression-1"
+          ),
+          a(
+            class="list-group-item",
+            "Regularized Regression 2",
+            href="regularized-regression-2"
+          ),
+          a(
+            class="list-group-item",
+            "Trees 1",
+            href="trees-1"
+          ),
+          a(
+            class="list-group-item",
+            "Trees 2",
+            href="trees-2"
+          ),
+          a(
+            class="list-group-item",
+            "Unsupervised Learning",
+            href="unsupervised-learning"
+          )
+        ),
+      ),
+      div(
+        class="col-sm-9",
+        h2("Social Data Science R Tutorials"),
+        p("Welcome to the Social Data Science R Tutorials hompage. Here you can find links to collections of tutorials. They are on the left sidebar, or, if you're using a small screen, they are above.")
+      )
+    )
+
+
+
+```
