@@ -27,6 +27,7 @@ In this notebook we (again) use the drug consumption data. The data contains rec
 Source: https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29
 
 ```{r}
+load("../data/drugs.rda")
 data(drugs)
 ```
 
