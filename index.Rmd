@@ -30,6 +30,11 @@ library(htmltools)
           ),
           a(
             class="list-group-item",
+            "Introduction",
+            href="introduction"
+          ),
+          a(
+            class="list-group-item",
             "knn",
             href="knn"
           ),
